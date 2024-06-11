@@ -17,4 +17,4 @@ I have utilized SQL to answer a wide range of questions related to pizza sales, 
 3. Customization: Modify the queries to fit specific needs or to explore additional questions.
 
 ## Contact
-For any questions or suggestions, please reach out via [LinkedIn](www.linkedin.com/in/ashish-kumar-tripathi083) or [email](tripathiashish083@gmail.com)
+For any questions or suggestions, please reach out via(www.linkedin.com/in/ashish-kumar-tripathi083) or (tripathiashish083@gmail.com)
